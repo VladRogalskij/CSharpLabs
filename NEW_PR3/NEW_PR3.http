@@ -1,0 +1,6 @@
+@NEW_PR3_HostAddress = http://localhost:5263
+
+GET {{NEW_PR3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

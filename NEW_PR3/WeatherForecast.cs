@@ -1,4 +1,4 @@
-namespace Pr3
+namespace NEW_PR3
 {
     public class WeatherForecast
     {
